@@ -1,1 +1,5 @@
 sql database username and password deleted from code. 
+
+This app is a mock drive share app for users to create and join rides. 
+The premise of this project was to learn more about java and how it interacts with sql database, html, css, javascript, and more.
+I used this project for learning purposes only, learning about creating my own sockets, sessions, and more. 
