@@ -37,7 +37,7 @@ public class MySQLAccess {
             // Setup the connection with the DB
             connect = DriverManager
                     .getConnection("jdbc:mysql://localhost/drive?"
-                            + "user=rishav&password=Rishrow2020");
+                            + "");
 
             
             //preparedStatement = connect
