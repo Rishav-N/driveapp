@@ -1,0 +1,9 @@
+body {background-color:#000000;}
+h1   {text-align: left;}
+.h1 {color: #ffffff;}
+p    {text-align: center;}
+.mnbutton {background-color: #4485b8; color: #fff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;}
+
+.mnbutton2 {background-color: #d3212d; color: #ffffff; display: inline-block; padding: 2px 8px; font-weight: bold; border-radius: 5px;}
+
+.text {color: #ffffff;}
